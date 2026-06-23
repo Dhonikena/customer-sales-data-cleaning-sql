@@ -1,0 +1,101 @@
+CustomerID,Name,Age,Gender,Phone,City,State,Country,JoinDate,LastPurchaseDate,TotalPurchases, AmountSpent ,ProductCategory,Rating
+1001,Alice Johnson,29,Female,9876543210,Mumbai,Maharashtra,India,15-03-21,20-11-24,12,15400.5,Electronics,4.5
+1002,Bob Smith,35,Male,8765432109,Delhi,Delhi,India,22-07-20,05-10-24,8,8200,Clothing,3.8
+1003,Carol White,28,female,,Bangalore,Karnataka,India,10-01-22,01-12-24,5,4500.75,Books,4.2
+1004,David Brown,45,MALE,7654321098, ,Tamil Nadu,India,30-11-19,15-08-23,20,32000,Electronics,2.9
+1005,Eve Davis,32,,6543210987,Hyderabad,Telangana,India,18-06-21,30-09-24,10,11000.25,Beauty,4.7
+1006,Frank Miller,150,Male,,Pune,Maharashtra,India,28-02-23,11-11-24,3,   ,Clothing,3.5
+1007,Grace Lee,27,Female,4321098765,Kolkata,West Bengal,India,14-08-22,22-10-24,7,7300.5,Books,4
+1008,Henry Wilson,38,Male,3210987654,Jaipur,Rajasthan,India,05-05-20,19-07-24,15,19500,Electronics,3.2
+1009,Isla Martin,-5,Female,,Lucknow,Uttar Pradesh,India,21-09-21,30-08-24,6,   ,Beauty,4.8
+1010,Jack Taylor,41,Male,1098765432,Ahmedabad,Gujarat,India,17-03-19,25-12-23,18,24000.75,Home,3.6
+1011,Alice Johnson,29,Female,9876543210,NULL,Maharashtra,India,15-03-21,20-11-24,12,15400.5,Electronics,4.5
+1012,Karen Hall,33,Female,,Surat,Gujarat,India,09-11-22,10-12-24,4,3800,Clothing,
+1013,Leo Young,26,Male,8901234567,Nagpur,Maharashtra,India,15-04-23,05-11-24,2,1500,Books,4.1
+1014,Mia Scott,36,Female,7890123456,Bhopal,Madhya Pradesh,India,30-07-21,18-06-24,9,9700.5,Beauty,3.9
+1015,Nate King,44,Male,6789012345,Visakhapatnam,Andhra Pradesh,India,01-12-20,14-01-24,16,21000,Electronics,2.5
+1016,Olivia Adams,31,Female,5678901234,Indore,Madhya Pradesh,India,25-04-22,29-10-24,6,6400.25,Home,4.6
+1017,Paul Baker,39,Male,4567890123,Patna,Bihar,India,13-01-21,07-09-24,11,13200,Clothing,3.3
+1018,Quinn Clark,25,Male,3456789012,Vadodara,Gujarat,India,17-06-23,03-12-24,2,1800.5,Books,4.4
+1019,Rachel Evans,48,Female,2345678901,Coimbatore,Tamil Nadu,India,08-09-18,30-11-22,25,45000,Electronics,1.8
+1020,Sam Foster,34,male,1234567890,Kochi,Kerala,India,22-05-21,15-11-24,8,8900.75,Beauty,4.3
+1021,Tina Green,29,Female,9123456780,Chandigarh,Punjab,India,03-10-22,10-10-24,5,5100,Home,
+1022,Uma Harris,37,Female,8012345679,Jamshedpur,Jharkhand,India,19-08-20,22-04-24,13,17300.5,Clothing,3.7
+1023,Victor Iyer,42,Male,7901234568,Agra,Uttar Pradesh,India,14-06-19,01-07-23,19,28000,Electronics,2.8
+1024,Wendy James,28,Female,,Mysore,Karnataka,India,07-01-23,08-12-24,3,2700.25,Books,4.9
+1025,Xander King,55,Male,6790123457,Nashik,Maharashtra,India,26-04-18,15-06-22,22,38500,Electronics,2.2
+1026,Yara Lopez,23,Female,5679012346,Faridabad,Haryana,India,11-09-23,28-11-24,1,900,Beauty,4.6
+1027,Zane Moore,31,Male,4568901235,Ghaziabad,Uttar Pradesh,India,30-03-22,19-08-24,6,6200.5,Clothing,3.5
+1028,Zane Moore,31,Male,4568901235,Ghaziabad,Uttar Pradesh,India,30-03-22,19-08-24,6,6200.5,Clothing,3.5
+1029,Amy Nelson,27,Female,3457890124,Rajkot,Gujarat,India,16-07-22,25-09-24,7,7500,Home,4.2
+1030,Brian Ortiz,46,Male,2346789013,Meerut,Uttar Pradesh,India,23-10-19,11-05-23,17,23500.75,Electronics,3.1
+1031,Clara Patel,33,Female,1235678902,Jabalpur,Madhya Pradesh,India,05-12-21,03-07-24,9,10100,Beauty,4.5
+1032,Derek Quinn,,Male,9024567891,Dhanbad,Jharkhand,India,20-05-22,14-10-24,5,4300.25,Clothing,3.8
+1033,Ella Roberts,30,Female,8913456780,Amritsar,Punjab,India,27-08-21,02-11-24,10,11800.5,Books,4.3
+1034,Felix Shah,43,Male,7802345679,Allahabad,Uttar Pradesh,India,14-02-20,28-09-23,14,18700,Electronics,2.7
+1035,Gina Thomas,26,Female,6791234568,Vijaywada,Andhra Pradesh,India,08-04-23,05-12-24,2,2200,Beauty,4.8
+1036,Hank Upton,38,Male,5680123457,Srinagar,Jammu & Kashmir,India,17-10-21,30-06-24,11,14200.75,Home,3.6
+1037,Irene Vega,52,Female,4569012346,Ranchi,Jharkhand,India,03-07-18,20-03-22,23,41000,Electronics,2
+1038,Jake West,29,Male,3458901235,Howrah,West Bengal,India,14-09-22,31-10-24,6,6700.5,Clothing,4.1
+1039,Karen Hall,33,Female,2347890124,Surat,Gujarat,India,09-11-22,10-12-24,4,3800,Clothing,3.2
+1040,Leo Young,26,Male,8901234567,Nagpur,Maharashtra,India,15-04-23,05-11-24,2,1500,Books,4.1
+1041,Mary Xu,35,Female,1236789013,Coimbatore,Tamil Nadu,India,28-11-20,17-05-24,12,15900,Beauty,4.4
+1042,Nick Yates,40,Male,9125678902,Guwahati,Assam,India,11-08-19,09-10-23,16,22000.5,Electronics,3
+1043,Oscar Zhang,24,Male,8014567891,Thiruvananthapuram,Kerala,India,22-07-23,19-11-24,1,800,Books,4.7
+1044,Paula Arun,31,Female,7903456780,Jodhpur,Rajasthan,India,13-02-22,12-09-24,7,7900.25,Home,4
+1045,Raj Bose,47,Male,6792345679,Kalyan,Maharashtra,India,19-12-18,07-08-22,21,35000,Electronics,2.3
+1046,Sara Chandra,28,Female,,Vasai,Maharashtra,India,05-03-23,01-12-24,3,2900.5,Clothing,4.6
+1047,Tom Das,36,Male,5681234568,Solapur,Maharashtra,India,10-04-21,24-08-24,9,10500,Beauty,3.7
+1048,Uma Harris,37,Female,8012345679,Jamshedpur,Jharkhand,India,19-08-20,22-04-24,13,   ,Clothing,3.7
+1049,Vikram Elan,33,Male,4570123457,Aurangabad,Maharashtra,India,26-11-21,15-07-24,8,9200.75,Electronics,3.4
+1050,Wren Foster,22,Female,3459012346,Belgaum,Karnataka,India,30-08-23,25-11-24,1,700,Books,4.9
+1051,Xena Gupta,44,Female,2348901235,Siliguri,West Bengal,India,07-05-19,18-06-23,18,25500,Home,2.6
+1052,Yusuf Haq,30,Male,1237890124,Hubli,Karnataka,India,24-06-22,07-10-24,6,6100.5,Clothing,4.2
+1053,Zoe Irani,25,Female,9126789013,Salem,Tamil Nadu,India,15-05-23,09-12-24,2,1300,Beauty,4.5
+1054,Aaron Jain,39,Male,8015678902,Malegaon,Maharashtra,India,02-10-20,28-03-24,14,19800.25,Electronics,3.3
+1055,Beth Kumar,34,Female,7904567891,Jalgaon,Maharashtra,India,08-02-21,19-09-24,9,10900,Home,4.1
+1056,Chris Lal,27,Male,6793456780,Warangal,Telangana,India,19-12-22,08-11-24,4,3600.75,Clothing,4.4
+1057,Diana Mehta,50,Female,5682345679,Mathura,Uttar Pradesh,India,25-03-18,14-01-22,24,43000,Electronics,1.9
+1058,Ethan Nair,32,Male,4571234568,Rajkot,Gujarat,India,31-01-22,05-08-24,7,8100.5,Beauty,4.3
+1059,Fiona Oza,29,Female,3460123457,Bareilly,Uttar Pradesh,India,20-10-22,18-10-24,5,5500,Books,4.7
+1060,George Pillai,41,Male,2349012346,Gwalior,Madhya Pradesh,India,16-07-19,22-11-23,17,23000.75,Electronics,2.9
+1061,Hannah Rao,26,Female,,Bikaner,Rajasthan,India,04-11-23,30-11-24,1,650,Beauty,4.8
+1062,Ian Sen,45,Male,1238901235,Bhiwandi,Maharashtra,India,29-01-19,07-04-23,20,30000,Home,3
+1063,Julia Tiwari,31,Female,9127890124,Saharanpur,Uttar Pradesh,India,09-07-22,03-09-24,6,6800.25,Clothing,3.9
+1064,Kevin Usha,36,Male,8016789013,Guntur,Andhra Pradesh,India,21-04-20,16-02-24,13,17100.5,Electronics,3.2
+1065,Laura Vaid,23,Female,7905678902,Amravati,Maharashtra,India,13-10-23,07-12-24,1,1050,Beauty,4.6
+1066,Mike Walia,38,Male,6794567891,Nanded,Maharashtra,India,03-03-21,26-07-24,10,12300.75,Books,4
+1067,Nina Xavier,33,Female,5683456780,Kolhapur,Maharashtra,India,27-08-22,25-10-24,7,7700,Home,4.3
+1068,Omar Yadav,48,Male,4572345679,Ajmer,Rajasthan,India,08-10-18,03-05-22,22,37500.5,Electronics,2.1
+1069,Priya Zaman,30,Female,3461234568,Ulhasnagar,Maharashtra,India,14-04-22,12-08-24,6,6500.25,Clothing,4.2
+1070,Rahul Ahuja,35,Male,2350123457,Sikar,Rajasthan,India,08-06-21,01-11-24,9,10200,Beauty,3.8
+1071,Sunita Bahl,40,Female,1239012346,Jhansi,Uttar Pradesh,India,17-01-20,09-06-24,14,18400.75,Electronics,3.1
+1072,Tarun Chugh,27,Male,9128901235,Kota,Rajasthan,India,11-02-23,14-11-24,3,2400,Clothing,4.5
+1073,Uma Devi,53,Female,8017890124,,Uttar Pradesh,India,30-06-18,25-10-22,23,40000.5,Home,2.4
+1074,Varun Eluri,29,Male,7906789013,Durgapur,West Bengal,India,02-09-22,29-09-24,5,5300.75,Books,4.6
+1075,Wahida Farouk,34,Female,6795678902,Tirunelveli,Tamil Nadu,India,23-07-21,20-08-24,8,9400,Beauty,4.1
+1076,Xander King,55,Male,6790123457,Nashik,Maharashtra,India,26-04-18,15-06-22,22,38500,Electronics,2.2
+1077,Yogesh Ghosh,43,Male,5684567891,Rourkela,Odisha,India,14-09-19,31-08-23,16,22800.25,Electronics,2.8
+1078,Zara Hussain,26,Female,4573456780,Gorakhpur,Uttar Pradesh,India,28-05-23,04-12-24,2,1700.5,Clothing,4.7
+1079,Anil Iyer,37,Male,3462345679,Bikaner,Rajasthan,India,05-11-21,16-10-24,10,12800,Home,3.7
+1080,Bindu Joshi,31,Female,2351234568,Bhilai,Chhattisgarh,India,18-03-22,08-09-24,6,6900.75,Beauty,4.4
+1081,Chintan Kumar,46,Male,1240123457,Latur,Maharashtra,India,10-04-19,14-03-23,18,26500,Electronics,3
+1082,Divya Lakhani,28,Female,9129012346,Sangli,Maharashtra,India,25-01-23,22-11-24,3,3100.25,Books,4.8
+1083,Eshaan Mishra,33,Male,8018901235,Akola,Maharashtra,India,30-10-21,10-07-24,9,10700.5,Clothing,3.9
+1084,Fatima Nabi,38,Female,7907890124,Kurnool,Andhra Pradesh,India,06-07-20,01-05-24,12,15600,Electronics,3.3
+1085,Gaurav Oberoi,24,Male,6796789013,Dhule,Maharashtra,India,17-08-23,27-11-24,1,950,Books,4.9
+1086,Hema Pillai,49,Female,5685678902,Rohtak,Haryana,India,22-11-18,19-07-22,21,34000.75,Electronics,2.2
+1087,Irfan Qureshi,35,Male,4574567891, ,Andhra Pradesh,India,14-05-21,23-06-24,8,9600,Home,4
+1088,Jasmine Rao,27,Female,3463456780,Belgaum,Karnataka,India,01-11-22,03-10-24,5,5200.5,Beauty,4.5
+1089,Kumar Sethi,41,Male,2352345679,Rampur,Uttar Pradesh,India,27-12-19,28-02-23,15,20500,Electronics,2.7
+1090,Lalita Tewari,30,Female,1241234568,Muzaffarnagar,Uttar Pradesh,India,07-06-22,16-09-24,6,6600.25,Clothing,4.2
+1091,Mahesh Uppal,44,Male,9130123457,Patiala,Punjab,India,01-03-19,10-01-23,17,24500.5,Electronics,2.9
+1092,Nisha Varma,29,Female,8019012346,Rohtak,Haryana,India,23-08-22,20-10-24,5,   ,Beauty,4.6
+1093,Omar Waqar,36,Male,7908901235,Shahjahanpur,Uttar Pradesh,India,19-02-21,08-08-24,8,9100,Home,3.8
+1094,Pooja Xero,32,Female,6797890124,Firozabad,Uttar Pradesh,India,01-04-22,13-11-24,6,7200.5,Clothing,4.1
+1095,Qadir Yusuf,39,Male,5686789013,Bijapur,Karnataka,India,15-09-20,29-04-24,12,16100,Electronics,3.2
+1096,Rekha Zende,34,Female,4575678902,Gulbarga,Karnataka,India,11-08-21,04-09-24,7,8400.75,Beauty,4.3
+1097,Suresh Alva,48,Male,3464567891,Tirupati,Andhra Pradesh,India,20-05-18,08-04-22,20,32500,Electronics,2.4
+1098,Trisha Batra,25,Female,2353456780,Malegaon,Maharashtra,India,03-07-23,09-11-24,2,1400.25,Books,4.7
+1099,Uday Chopra,43,Male,1242345679,Jamnagar,Gujarat,India,18-10-19,23-07-23,16,22300.5,Home,3
+1100,Vidya Desai,31,Female,9131234568,Anand,Gujarat,India,12-05-22,28-10-24,6,7000,Clothing,4.4

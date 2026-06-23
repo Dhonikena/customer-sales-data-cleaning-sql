@@ -4,7 +4,7 @@
 This project cleans a messy retail customer dataset (`dirty_data`) using **MySQL** and runs business questions on it. It demonstrates end-to-end SQL data cleaning — standardization, type correction, missing-value handling — followed by aggregation-based analysis.
 
 ## 🗂 Dataset
-**Table:** `dirty_data`
+**Table:** 'dirty_customer_sales.csv' or `dirty_data`
 **Key columns:**
 - `Gender` — inconsistent casing (e.g., MALE, female, Male)
 - `AmountSpent` — stored as text with `$` symbols
